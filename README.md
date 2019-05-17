@@ -13,5 +13,10 @@ The firewall is configured to allow connections only to ports 2200/ssh, 80/HTTP,
 A new user is created: grader
 The grader user is configured with root permissions
 An SSH key pair was created in order to allow access to the server to login with grader user
-Connecting to the server using ssh connection using password is disabled
+Connecting to the server using ssh connection using password is disabled.
+
+## starting the server
+In the grader user there is a file startServer.sh, executing it will start the application and the xip custom DNS application
+Currently the server is running.
+
 
