@@ -22,4 +22,5 @@ Currently the server is running.
 ## using grader
 grader has root permissions and in order to use it, it's password is 123
 
-
+## catalog-app
+the catalog-app is available in this git repository: https://github.com/asco88/catalog-app
