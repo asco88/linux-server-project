@@ -10,7 +10,7 @@ http://35.158.225.250.xip.io
 ## Linux Configuration
 I used AWS Lightsail in order to host an Ubuntu 16.0 server.
 The firewall is configured to allow connections only to ports 2200/ssh, 80/HTTP, 123,
- SSH using default port 22 is denied.
+ SSH connection using default port 22 is denied.
 A new user is created: grader
 The grader user is configured with root permissions
 An SSH key pair was created in order to allow access to the server to login with grader user, the key has no passphrase
